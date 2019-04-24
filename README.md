@@ -1,4 +1,3 @@
-<?php
 #stream api xml
 
 ## use example
