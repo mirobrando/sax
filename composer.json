@@ -17,5 +17,5 @@
             "email": "mirobrando@wp.pl"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev-master"
 }
