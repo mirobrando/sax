@@ -1,0 +1,21 @@
+{
+    "name": "mirolabs/sax",
+    "description": "api for XML",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mirolabs\\Sax\\": "src/"
+        }
+    },
+    "require": {
+        "mirolabs/collection": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mirobrando",
+            "email": "mirobrando@wp.pl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
